@@ -15,3 +15,5 @@ dados. Capaz de identificar padrões e tendências, contribuindo para a tomada d
 ● Conhecimentos em AWS e Azure;
 
 ● Noções de Python.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J053n1l50n)](https://github.com/anuraghazra/github-readme-stats)
