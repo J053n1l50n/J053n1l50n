@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**J053n1l50n/J053n1l50n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+####### Sobre Josenilson
+Analista de dados em formação pela EBAC – Escola Britânica de Artes Criativas e Tecnologia, graduado em
+Análise e Desenvolvimento de Sistemas. Profissional com perfil focado. Possuo experiências em Análise de
+soluções.
+Experiência em projetos de análise de dados, incluindo a manipulação, tratamento e extração de dados.
+Habilidade em transformar dados brutos em insights acionáveis, utilizando técnicas de visualização de dados.
+Aptidão para trabalhar com grandes volumes de informações, assegurando a qualidade e a integridade dos
+dados. Capaz de identificar padrões e tendências, contribuindo para a tomada de decisões estratégicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+● Habilidades em MySql, Excel e derivados;
+
+● Conhecimentos em AWS e Azure;
+
+● Noções de Python.
