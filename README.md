@@ -2,6 +2,7 @@
 
 
 ####### Sobre Josenilson
+
 Analista de dados formado pela EBAC – Escola Britânica de Artes Criativas e Tecnologia, graduado em
 Análise e Desenvolvimento de Sistemas. Profissional com perfil focado. Possuo experiências em Análise de
 soluções.
