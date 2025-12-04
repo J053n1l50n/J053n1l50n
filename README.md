@@ -2,7 +2,7 @@
 
 
 ####### Sobre Josenilson
-Analista de dados em formação pela EBAC – Escola Britânica de Artes Criativas e Tecnologia, graduado em
+Analista de dados formado pela EBAC – Escola Britânica de Artes Criativas e Tecnologia, graduado em
 Análise e Desenvolvimento de Sistemas. Profissional com perfil focado. Possuo experiências em Análise de
 soluções.
 Experiência em projetos de análise de dados, incluindo a manipulação, tratamento e extração de dados.
@@ -15,5 +15,4 @@ dados. Capaz de identificar padrões e tendências, contribuindo para a tomada d
 ● Conhecimentos em AWS e Azure;
 
 ● Noções de Python.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J053n1l50n&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
