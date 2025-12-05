@@ -17,4 +17,10 @@ dados. Capaz de identificar padrões e tendências, contribuindo para a tomada d
 
 ● Noções de Python.
 
+Data analyst in training at EBAC – British School of Creative Arts and Technology, with a degree in Systems
+Analysis and Development. Focused professional with experience in solutions analysis, wxperience in data analysis projects, including data manipulation, treatment, and extraction, ability to transform raw data into actionable insights using data visualization techniques, Aptitude for working with large volumes of information, ensuring data quality and integrity, Capable of identifying patterns and trends, contributing to strategic decision-making.
+● Skills in MySQL, Excel, and related tools.
 
+● Knowledge of AWS and Azure.
+
+● Basic understanding of Python.
